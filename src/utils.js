@@ -4,6 +4,6 @@ function numberToAlpha(v) {
 }
 
 const loadQuestions = async () => {
-    const list = await (await fetch('questions.json')).json();
+    const list = await (await fetch('./questions.json')).json();
     return list.map((item, i) => ({...item, key: i+1}));
 }

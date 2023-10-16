@@ -1,7 +1,7 @@
 
 let container;
 const loadMembers = async () => {
-    const res = await fetch('/members.json');
+    const res = await fetch('./members.json');
     const members = await res.json();
     return members;
 }
