@@ -1,0 +1,21 @@
+[
+  { "name": "김세준", "desc": "INFP" },
+  { "name": "오혜미", "desc": "INFP" },
+  { "name": "성정아", "desc": "ISFJ" },
+  { "name": "김초희", "desc": "ISFJ" },
+  { "name": "한상민", "desc": "INTP" },
+  { "name": "김창환", "desc": "INTJ" },
+  { "name": "한종현", "desc": "ISFP(추정)" },
+  { "name": "허인경", "desc": "INFJ(추정)" },
+  { "name": "백창현", "desc": "INFP" },
+  { "name": "조정우", "desc": "INFP" },
+  { "name": "김소연", "desc": "INTJ" },
+  { "name": "정윤희", "desc": "INFP" },
+  { "name": "서은희", "desc": "ISFJ" },
+  { "name": "전미희", "desc": "ESTP" },
+  { "name": "안병권", "desc": "ISFJ" },
+  { "name": "이민혜", "desc": "ENFJ" },
+  { "name": "김미란", "desc": "ESTJ(회사)/ENFJ(집)" },
+  { "name": "박지연", "desc": "ISTJ" },
+  { "name": "전서연", "desc": "ENTJ" }
+]
