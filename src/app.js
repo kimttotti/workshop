@@ -42,7 +42,7 @@ const showNextMember = (members, questions) => {
     questionBody.appendChild(next);
     container.innerHTML = `
     <div class="member">
-        <img src='/assets/${member.name}.jpg' alt="${member.name}" />
+        <img src='./assets/${member.name}.jpg' alt="${member.name}" />
         <h2>${member.name}</h2>
         <h3>${member.desc}</h3>
     </div>
